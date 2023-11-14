@@ -49,9 +49,11 @@
 
 ###
 
+<!---
 <h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
 <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
-<!---
+
+
 - 👋 Hi, I’m @DeadlyTalha
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
