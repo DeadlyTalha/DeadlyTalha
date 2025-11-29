@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Talha. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>
+<p align="left">My name is Talha. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Programming. 
+  <!---💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>  -->
 
 ###
 
@@ -12,14 +13,14 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,vscode,git,github&theme=dark" />
   </a>
  
 </div>
 
 ###
 
-<h2 align="left" style="color:white;" >🌐 My socials</h2>
+<!-- <h2 align="left" style="color:white;" >🌐 My socials</h2>   
 
 ###
 
@@ -33,20 +34,20 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
-  
+   
 </div>
-
-<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
+--> 
+  <!-- <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
 <div align="left">
  
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  /> -->
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  /> 
  
- 
-</div>
 
+</div>
+-->
 ###
 
 <!---
