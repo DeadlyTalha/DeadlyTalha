@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Talha. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Programming. 
+<p align="left">My name is Talha. 🚀 Currently, I'm pursuing a degree in machine learning 📚, and I have a strong passion for Programming. 
   <!---💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>  -->
 
 ###
