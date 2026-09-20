@@ -1,67 +1,63 @@
-<h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
+<h1 align="center">Hi, I'm Talha 👋</h1>
 
-###
+<h3 align="center">
+Master's student in AI, Data & Agentic — Paris Dauphine PSL (Tunis)
+</h3>
 
-<p align="left">My name is Talha. 🚀 Currently, I'm pursuing a degree in machine learning 📚, and I have a strong passion for Programming. 
-  <!---💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>  -->
-
-###
-
-<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
-
-###
-
-<div align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,flutter,vscode,git,github&theme=dark" />
+<p align="center">
+  <a href="https://github.com/DeadlyTalha">
+    <img src="https://img.shields.io/badge/GitHub-DeadlyTalha-181717?style=for-the-badge&logo=github" />
   </a>
- 
-</div>
-
-###
-
-<!-- <h2 align="left" style="color:white;" >🌐 My socials</h2>   
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/dailypro_with_me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="mailto:talhasalek2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  
-  <a href="https://talhasalek24@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://wa.me/22797920294">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/talha-salek-link/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-   
-</div>
---> 
-  <!-- <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
+---
 
-<div align="left">
- 
-<img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
- 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  /> 
- 
+## 🚀 About Me
 
-</div>
--->
-###
+- 🎓 Master's in **Artificial Intelligence, Data & Agentic** 
+- 🧠 Passionate about **Machine Learning**, **LLMs**, and **AI Agents**
+- 💻 Background in **Software Engineering** (Bachelor's degree)
+- 📚 I love learning, building, and solving real-world problems
 
-<!---
-<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,linux,git,github,mysql,tensorflow,pytorch,sklearn,anaconda,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [ames-housing-eda-ml](https://github.com/DeadlyTalha/ames-housing-eda-ml) | Complete EDA and ML pipeline on the Ames Housing dataset (Kaggle) | Python, Pandas, Scikit-learn |
+| [project_prix_agricole](https://github.com/DeadlyTalha/project_prix_agricole) | ML project to predict agricultural prices in Tunisia | Jupyter, Scikit-learn |
+| [seam-carving-project](https://github.com/DeadlyTalha/seam-carving-project) | Seam carving — Graph Theory | Jupyter |
+| [Data_mining](https://github.com/DeadlyTalha/Data_mining) | Data mining coursework | Jupyter |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DeadlyTalha&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
 
 
-- 👋 Hi, I’m @DeadlyTalha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-DeadlyTalha/DeadlyTalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <i>“Learn, build, improve — one commit at a time.”</i>
+</p>
