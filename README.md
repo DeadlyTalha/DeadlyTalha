@@ -33,7 +33,7 @@ Master's student in AI, Data & Agentic — Paris Dauphine PSL (Tunis)
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,linux,git,github,mysql,tensorflow,pytorch,sklearn,anaconda,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,linux,git,github,mysql,sklearn,anaconda,vscode" />
 </p>
 
 ---
