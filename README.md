@@ -48,7 +48,7 @@ Master's student in AI, Data & Agentic — Paris Dauphine PSL (Tunis)
 | [Data_mining](https://github.com/DeadlyTalha/Data_mining) | Data mining coursework | Jupyter |
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,4 +60,4 @@ Master's student in AI, Data & Agentic — Paris Dauphine PSL (Tunis)
 
 <p align="center">
   <i>“Learn, build, improve — one commit at a time.”</i>
-</p>
+</p> -->
